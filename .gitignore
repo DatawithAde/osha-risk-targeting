@@ -1,0 +1,21 @@
+# Raw data (too large for GitHub — regenerate via the pipeline scripts)
+data/osha_inspection_combined.csv
+data/osha_violation_combined.csv
+data/OSHA_Inspection/
+data/OSHA_Violation/
+data/ITA_300A_*.csv
+data/severe_injury_reports.csv
+data/estab_history.csv
+data/processed_osha.csv
+
+# KEEP (do NOT ignore): data/insights_data.csv  — slim file the app needs
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
