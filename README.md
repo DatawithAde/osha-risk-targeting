@@ -56,3 +56,6 @@ streamlit run app.py
 
 Research and portfolio demonstration only. Not an official OSHA tool and not
 affiliated with the U.S. Department of Labor.
+
+Author
+Adeyemi Samuel Ayorinde — EHS Data Scientists, University of Arkansas at Little Rock
